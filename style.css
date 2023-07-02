@@ -25,13 +25,23 @@ p.paragraphOne {
   align-items: center;
 }
 
-p.author {
-font-size: 12px;
-color: whitesmoke;
-}
-
 .sectionTwo {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+img {
+  max-width: 100%;
+  max-height: 200px;
+}
+
+.sectionThree {
+  display: flex;
+  justify-content: center;
+}
+
+p.author {
+font-size: 16px;
+color: whitesmoke;
 }
