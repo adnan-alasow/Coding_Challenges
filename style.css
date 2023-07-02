@@ -1,5 +1,8 @@
 
-body {
+body{
+  background-color: #350202;
+}
+.sectionOne {
   background-color: #350202;
   margin: 0;
   padding: 0;
@@ -7,7 +10,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 40vh;
 }
 
 h1 {
@@ -25,4 +28,10 @@ p.paragraphOne {
 p.author {
 font-size: 12px;
 color: whitesmoke;
+}
+
+.sectionTwo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
