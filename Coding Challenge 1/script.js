@@ -1,3 +1,4 @@
+'use strict'
 // 1. Write a program that outputs the phrase "Hello, world!" to the console.
 
 console.log("Hello, world!");
